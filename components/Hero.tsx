@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export default function HeroSection() {
   return (
-    <section className="min-h-screen flex flex-col md:flex-row items-center px-6 md:px-16 bg-[#fdfaf7]">
+    <section className="min-h-screen flex flex-col md:flex-row items-center px-6 md:px-16 bg-[#fdfaf7] pt-24 md:pt-32">
       
       {/* Left Content */}
       <div className="md:w-1/2 text-center md:text-left">
